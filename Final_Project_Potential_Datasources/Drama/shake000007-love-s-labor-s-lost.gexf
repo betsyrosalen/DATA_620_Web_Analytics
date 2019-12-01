@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2">
+    <meta>
+        <creator>dracor.org</creator>
+        <description>William Shakespeare: Love’s Labor’s Lost</description>
+    </meta>
+    <graph mode="static" defaultedgetype="undirected">
+        <attributes class="node" mode="static">
+            <attribute id="gender" title="Gender" type="string"/>
+            <attribute id="person-group" title="Person group" type="boolean"/>
+            <attribute id="number-of-words" title="Number of spoken words" type="integer"/>
+        </attributes>
+        <nodes>
+            <node id="King_LLL" label="King">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="2050"/>
+                </attvalues>
+            </node>
+            <node id="Longaville_LLL" label="Longaville">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="518"/>
+                </attvalues>
+            </node>
+            <node id="Dumaine_LLL" label="Dumaine">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="544"/>
+                </attvalues>
+            </node>
+            <node id="Berowne_LLL" label="Berowne">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="4594"/>
+                </attvalues>
+            </node>
+            <node id="Dull_LLL" label="Dull Constable">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="236"/>
+                </attvalues>
+            </node>
+            <node id="Costard_LLL" label="Costard Clown Swain">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="1533"/>
+                </attvalues>
+            </node>
+            <node id="Armado_LLL" label="Armado Braggart">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="1733"/>
+                </attvalues>
+            </node>
+            <node id="Boy_LLL" label="Boy Page Mote">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="1107"/>
+                </attvalues>
+            </node>
+            <node id="Jaquenetta_LLL" label="Jaquenetta Wench">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="100"/>
+                </attvalues>
+            </node>
+            <node id="Boyet_LLL" label="Boyet">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="1522"/>
+                </attvalues>
+            </node>
+            <node id="Princess_LLL" label="Princess">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="2179"/>
+                </attvalues>
+            </node>
+            <node id="LORDS.0_LLL" label="Lords, Blackamoors, Musicians">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="7"/>
+                </attvalues>
+            </node>
+            <node id="Maria_LLL" label="Maria">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="295"/>
+                </attvalues>
+            </node>
+            <node id="Katherine_LLL" label="Katherine">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="388"/>
+                </attvalues>
+            </node>
+            <node id="Rosaline_LLL" label="Rosaline">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="1333"/>
+                </attvalues>
+            </node>
+            <node id="Forester_LLL" label="Forester">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="45"/>
+                </attvalues>
+            </node>
+            <node id="Nathaniel_LLL" label="Nathaniel Curate">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="520"/>
+                </attvalues>
+            </node>
+            <node id="Holofernes_LLL" label="Holofernes Pedant">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="1302"/>
+                </attvalues>
+            </node>
+            <node id="Marcade_LLL" label="Monsieur Marcade">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="28"/>
+                </attvalues>
+            </node>
+            <node id="Spring_LLL" label="Lords, Blackamoors, Musicians">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="96"/>
+                </attvalues>
+            </node>
+            <node id="Winter_LLL" label="Lords, Blackamoors, Musicians">
+                <attvalues>
+                    <attvalue for="person-group" value="0"/>
+                    <attvalue for="number-of-words" value="105"/>
+                </attvalues>
+            </node>
+        </nodes>
+        <edges>
+            <edge id="King_LLL|Longaville_LLL" source="King_LLL" target="Longaville_LLL" weight="4"/>
+            <edge id="King_LLL|Dumaine_LLL" source="King_LLL" target="Dumaine_LLL" weight="4"/>
+            <edge id="King_LLL|Berowne_LLL" source="King_LLL" target="Berowne_LLL" weight="4"/>
+            <edge id="King_LLL|Dull_LLL" source="King_LLL" target="Dull_LLL" weight="1"/>
+            <edge id="King_LLL|Costard_LLL" source="King_LLL" target="Costard_LLL" weight="3"/>
+            <edge id="King_LLL|Boyet_LLL" source="King_LLL" target="Boyet_LLL" weight="2"/>
+            <edge id="King_LLL|Princess_LLL" source="King_LLL" target="Princess_LLL" weight="2"/>
+            <edge id="King_LLL|LORDS.0_LLL" source="King_LLL" target="LORDS.0_LLL" weight="1"/>
+            <edge id="King_LLL|Maria_LLL" source="King_LLL" target="Maria_LLL" weight="2"/>
+            <edge id="King_LLL|Katherine_LLL" source="King_LLL" target="Katherine_LLL" weight="2"/>
+            <edge id="King_LLL|Rosaline_LLL" source="King_LLL" target="Rosaline_LLL" weight="2"/>
+            <edge id="King_LLL|Jaquenetta_LLL" source="King_LLL" target="Jaquenetta_LLL" weight="1"/>
+            <edge id="King_LLL|Boy_LLL" source="King_LLL" target="Boy_LLL" weight="1"/>
+            <edge id="King_LLL|Armado_LLL" source="King_LLL" target="Armado_LLL" weight="1"/>
+            <edge id="King_LLL|Nathaniel_LLL" source="King_LLL" target="Nathaniel_LLL" weight="1"/>
+            <edge id="King_LLL|Holofernes_LLL" source="King_LLL" target="Holofernes_LLL" weight="1"/>
+            <edge id="King_LLL|Marcade_LLL" source="King_LLL" target="Marcade_LLL" weight="1"/>
+            <edge id="King_LLL|Spring_LLL" source="King_LLL" target="Spring_LLL" weight="1"/>
+            <edge id="King_LLL|Winter_LLL" source="King_LLL" target="Winter_LLL" weight="1"/>
+            <edge id="Longaville_LLL|Dumaine_LLL" source="Longaville_LLL" target="Dumaine_LLL" weight="4"/>
+            <edge id="Longaville_LLL|Berowne_LLL" source="Longaville_LLL" target="Berowne_LLL" weight="4"/>
+            <edge id="Longaville_LLL|Dull_LLL" source="Longaville_LLL" target="Dull_LLL" weight="1"/>
+            <edge id="Longaville_LLL|Costard_LLL" source="Longaville_LLL" target="Costard_LLL" weight="3"/>
+            <edge id="Longaville_LLL|Boyet_LLL" source="Longaville_LLL" target="Boyet_LLL" weight="2"/>
+            <edge id="Longaville_LLL|Princess_LLL" source="Longaville_LLL" target="Princess_LLL" weight="2"/>
+            <edge id="Longaville_LLL|LORDS.0_LLL" source="Longaville_LLL" target="LORDS.0_LLL" weight="1"/>
+            <edge id="Longaville_LLL|Maria_LLL" source="Longaville_LLL" target="Maria_LLL" weight="2"/>
+            <edge id="Longaville_LLL|Katherine_LLL" source="Longaville_LLL" target="Katherine_LLL" weight="2"/>
+            <edge id="Longaville_LLL|Rosaline_LLL" source="Longaville_LLL" target="Rosaline_LLL" weight="2"/>
+            <edge id="Longaville_LLL|Jaquenetta_LLL" source="Longaville_LLL" target="Jaquenetta_LLL" weight="1"/>
+            <edge id="Longaville_LLL|Boy_LLL" source="Longaville_LLL" target="Boy_LLL" weight="1"/>
+            <edge id="Longaville_LLL|Armado_LLL" source="Longaville_LLL" target="Armado_LLL" weight="1"/>
+            <edge id="Longaville_LLL|Nathaniel_LLL" source="Longaville_LLL" target="Nathaniel_LLL" weight="1"/>
+            <edge id="Longaville_LLL|Holofernes_LLL" source="Longaville_LLL" target="Holofernes_LLL" weight="1"/>
+            <edge id="Longaville_LLL|Marcade_LLL" source="Longaville_LLL" target="Marcade_LLL" weight="1"/>
+            <edge id="Longaville_LLL|Spring_LLL" source="Longaville_LLL" target="Spring_LLL" weight="1"/>
+            <edge id="Longaville_LLL|Winter_LLL" source="Longaville_LLL" target="Winter_LLL" weight="1"/>
+            <edge id="Dumaine_LLL|Berowne_LLL" source="Dumaine_LLL" target="Berowne_LLL" weight="4"/>
+            <edge id="Dumaine_LLL|Dull_LLL" source="Dumaine_LLL" target="Dull_LLL" weight="1"/>
+            <edge id="Dumaine_LLL|Costard_LLL" source="Dumaine_LLL" target="Costard_LLL" weight="3"/>
+            <edge id="Dumaine_LLL|Boyet_LLL" source="Dumaine_LLL" target="Boyet_LLL" weight="2"/>
+            <edge id="Dumaine_LLL|Princess_LLL" source="Dumaine_LLL" target="Princess_LLL" weight="2"/>
+            <edge id="Dumaine_LLL|LORDS.0_LLL" source="Dumaine_LLL" target="LORDS.0_LLL" weight="1"/>
+            <edge id="Dumaine_LLL|Maria_LLL" source="Dumaine_LLL" target="Maria_LLL" weight="2"/>
+            <edge id="Dumaine_LLL|Katherine_LLL" source="Dumaine_LLL" target="Katherine_LLL" weight="2"/>
+            <edge id="Dumaine_LLL|Rosaline_LLL" source="Dumaine_LLL" target="Rosaline_LLL" weight="2"/>
+            <edge id="Dumaine_LLL|Jaquenetta_LLL" source="Dumaine_LLL" target="Jaquenetta_LLL" weight="1"/>
+            <edge id="Dumaine_LLL|Boy_LLL" source="Dumaine_LLL" target="Boy_LLL" weight="1"/>
+            <edge id="Dumaine_LLL|Armado_LLL" source="Dumaine_LLL" target="Armado_LLL" weight="1"/>
+            <edge id="Dumaine_LLL|Nathaniel_LLL" source="Dumaine_LLL" target="Nathaniel_LLL" weight="1"/>
+            <edge id="Dumaine_LLL|Holofernes_LLL" source="Dumaine_LLL" target="Holofernes_LLL" weight="1"/>
+            <edge id="Dumaine_LLL|Marcade_LLL" source="Dumaine_LLL" target="Marcade_LLL" weight="1"/>
+            <edge id="Dumaine_LLL|Spring_LLL" source="Dumaine_LLL" target="Spring_LLL" weight="1"/>
+            <edge id="Dumaine_LLL|Winter_LLL" source="Dumaine_LLL" target="Winter_LLL" weight="1"/>
+            <edge id="Berowne_LLL|Dull_LLL" source="Berowne_LLL" target="Dull_LLL" weight="1"/>
+            <edge id="Berowne_LLL|Costard_LLL" source="Berowne_LLL" target="Costard_LLL" weight="4"/>
+            <edge id="Berowne_LLL|Boyet_LLL" source="Berowne_LLL" target="Boyet_LLL" weight="2"/>
+            <edge id="Berowne_LLL|Princess_LLL" source="Berowne_LLL" target="Princess_LLL" weight="2"/>
+            <edge id="Berowne_LLL|LORDS.0_LLL" source="Berowne_LLL" target="LORDS.0_LLL" weight="1"/>
+            <edge id="Berowne_LLL|Maria_LLL" source="Berowne_LLL" target="Maria_LLL" weight="2"/>
+            <edge id="Berowne_LLL|Katherine_LLL" source="Berowne_LLL" target="Katherine_LLL" weight="2"/>
+            <edge id="Berowne_LLL|Rosaline_LLL" source="Berowne_LLL" target="Rosaline_LLL" weight="2"/>
+            <edge id="Berowne_LLL|Armado_LLL" source="Berowne_LLL" target="Armado_LLL" weight="2"/>
+            <edge id="Berowne_LLL|Boy_LLL" source="Berowne_LLL" target="Boy_LLL" weight="2"/>
+            <edge id="Berowne_LLL|Jaquenetta_LLL" source="Berowne_LLL" target="Jaquenetta_LLL" weight="1"/>
+            <edge id="Berowne_LLL|Nathaniel_LLL" source="Berowne_LLL" target="Nathaniel_LLL" weight="1"/>
+            <edge id="Berowne_LLL|Holofernes_LLL" source="Berowne_LLL" target="Holofernes_LLL" weight="1"/>
+            <edge id="Berowne_LLL|Marcade_LLL" source="Berowne_LLL" target="Marcade_LLL" weight="1"/>
+            <edge id="Berowne_LLL|Spring_LLL" source="Berowne_LLL" target="Spring_LLL" weight="1"/>
+            <edge id="Berowne_LLL|Winter_LLL" source="Berowne_LLL" target="Winter_LLL" weight="1"/>
+            <edge id="Dull_LLL|Costard_LLL" source="Dull_LLL" target="Costard_LLL" weight="4"/>
+            <edge id="Dull_LLL|Armado_LLL" source="Dull_LLL" target="Armado_LLL" weight="2"/>
+            <edge id="Dull_LLL|Boy_LLL" source="Dull_LLL" target="Boy_LLL" weight="2"/>
+            <edge id="Dull_LLL|Jaquenetta_LLL" source="Dull_LLL" target="Jaquenetta_LLL" weight="2"/>
+            <edge id="Dull_LLL|Nathaniel_LLL" source="Dull_LLL" target="Nathaniel_LLL" weight="2"/>
+            <edge id="Dull_LLL|Holofernes_LLL" source="Dull_LLL" target="Holofernes_LLL" weight="2"/>
+            <edge id="Costard_LLL|Armado_LLL" source="Costard_LLL" target="Armado_LLL" weight="4"/>
+            <edge id="Costard_LLL|Boy_LLL" source="Costard_LLL" target="Boy_LLL" weight="4"/>
+            <edge id="Costard_LLL|Jaquenetta_LLL" source="Costard_LLL" target="Jaquenetta_LLL" weight="3"/>
+            <edge id="Costard_LLL|Princess_LLL" source="Costard_LLL" target="Princess_LLL" weight="2"/>
+            <edge id="Costard_LLL|Forester_LLL" source="Costard_LLL" target="Forester_LLL" weight="1"/>
+            <edge id="Costard_LLL|Boyet_LLL" source="Costard_LLL" target="Boyet_LLL" weight="2"/>
+            <edge id="Costard_LLL|Rosaline_LLL" source="Costard_LLL" target="Rosaline_LLL" weight="2"/>
+            <edge id="Costard_LLL|Maria_LLL" source="Costard_LLL" target="Maria_LLL" weight="2"/>
+            <edge id="Costard_LLL|Nathaniel_LLL" source="Costard_LLL" target="Nathaniel_LLL" weight="3"/>
+            <edge id="Costard_LLL|Holofernes_LLL" source="Costard_LLL" target="Holofernes_LLL" weight="3"/>
+            <edge id="Costard_LLL|Katherine_LLL" source="Costard_LLL" target="Katherine_LLL" weight="1"/>
+            <edge id="Costard_LLL|Marcade_LLL" source="Costard_LLL" target="Marcade_LLL" weight="1"/>
+            <edge id="Costard_LLL|Spring_LLL" source="Costard_LLL" target="Spring_LLL" weight="1"/>
+            <edge id="Costard_LLL|Winter_LLL" source="Costard_LLL" target="Winter_LLL" weight="1"/>
+            <edge id="Armado_LLL|Boy_LLL" source="Armado_LLL" target="Boy_LLL" weight="4"/>
+            <edge id="Armado_LLL|Jaquenetta_LLL" source="Armado_LLL" target="Jaquenetta_LLL" weight="1"/>
+            <edge id="Armado_LLL|Holofernes_LLL" source="Armado_LLL" target="Holofernes_LLL" weight="2"/>
+            <edge id="Armado_LLL|Nathaniel_LLL" source="Armado_LLL" target="Nathaniel_LLL" weight="2"/>
+            <edge id="Armado_LLL|Princess_LLL" source="Armado_LLL" target="Princess_LLL" weight="1"/>
+            <edge id="Armado_LLL|Rosaline_LLL" source="Armado_LLL" target="Rosaline_LLL" weight="1"/>
+            <edge id="Armado_LLL|Katherine_LLL" source="Armado_LLL" target="Katherine_LLL" weight="1"/>
+            <edge id="Armado_LLL|Maria_LLL" source="Armado_LLL" target="Maria_LLL" weight="1"/>
+            <edge id="Armado_LLL|Boyet_LLL" source="Armado_LLL" target="Boyet_LLL" weight="1"/>
+            <edge id="Armado_LLL|Marcade_LLL" source="Armado_LLL" target="Marcade_LLL" weight="1"/>
+            <edge id="Armado_LLL|Spring_LLL" source="Armado_LLL" target="Spring_LLL" weight="1"/>
+            <edge id="Armado_LLL|Winter_LLL" source="Armado_LLL" target="Winter_LLL" weight="1"/>
+            <edge id="Boy_LLL|Jaquenetta_LLL" source="Boy_LLL" target="Jaquenetta_LLL" weight="1"/>
+            <edge id="Boy_LLL|Holofernes_LLL" source="Boy_LLL" target="Holofernes_LLL" weight="2"/>
+            <edge id="Boy_LLL|Nathaniel_LLL" source="Boy_LLL" target="Nathaniel_LLL" weight="2"/>
+            <edge id="Boy_LLL|Princess_LLL" source="Boy_LLL" target="Princess_LLL" weight="1"/>
+            <edge id="Boy_LLL|Rosaline_LLL" source="Boy_LLL" target="Rosaline_LLL" weight="1"/>
+            <edge id="Boy_LLL|Katherine_LLL" source="Boy_LLL" target="Katherine_LLL" weight="1"/>
+            <edge id="Boy_LLL|Maria_LLL" source="Boy_LLL" target="Maria_LLL" weight="1"/>
+            <edge id="Boy_LLL|Boyet_LLL" source="Boy_LLL" target="Boyet_LLL" weight="1"/>
+            <edge id="Boy_LLL|Marcade_LLL" source="Boy_LLL" target="Marcade_LLL" weight="1"/>
+            <edge id="Boy_LLL|Spring_LLL" source="Boy_LLL" target="Spring_LLL" weight="1"/>
+            <edge id="Boy_LLL|Winter_LLL" source="Boy_LLL" target="Winter_LLL" weight="1"/>
+            <edge id="Jaquenetta_LLL|Nathaniel_LLL" source="Jaquenetta_LLL" target="Nathaniel_LLL" weight="1"/>
+            <edge id="Jaquenetta_LLL|Holofernes_LLL" source="Jaquenetta_LLL" target="Holofernes_LLL" weight="1"/>
+            <edge id="Boyet_LLL|Princess_LLL" source="Boyet_LLL" target="Princess_LLL" weight="3"/>
+            <edge id="Boyet_LLL|LORDS.0_LLL" source="Boyet_LLL" target="LORDS.0_LLL" weight="1"/>
+            <edge id="Boyet_LLL|Maria_LLL" source="Boyet_LLL" target="Maria_LLL" weight="3"/>
+            <edge id="Boyet_LLL|Katherine_LLL" source="Boyet_LLL" target="Katherine_LLL" weight="2"/>
+            <edge id="Boyet_LLL|Rosaline_LLL" source="Boyet_LLL" target="Rosaline_LLL" weight="3"/>
+            <edge id="Boyet_LLL|Forester_LLL" source="Boyet_LLL" target="Forester_LLL" weight="1"/>
+            <edge id="Boyet_LLL|Nathaniel_LLL" source="Boyet_LLL" target="Nathaniel_LLL" weight="1"/>
+            <edge id="Boyet_LLL|Holofernes_LLL" source="Boyet_LLL" target="Holofernes_LLL" weight="1"/>
+            <edge id="Boyet_LLL|Marcade_LLL" source="Boyet_LLL" target="Marcade_LLL" weight="1"/>
+            <edge id="Boyet_LLL|Spring_LLL" source="Boyet_LLL" target="Spring_LLL" weight="1"/>
+            <edge id="Boyet_LLL|Winter_LLL" source="Boyet_LLL" target="Winter_LLL" weight="1"/>
+            <edge id="Princess_LLL|LORDS.0_LLL" source="Princess_LLL" target="LORDS.0_LLL" weight="1"/>
+            <edge id="Princess_LLL|Maria_LLL" source="Princess_LLL" target="Maria_LLL" weight="3"/>
+            <edge id="Princess_LLL|Katherine_LLL" source="Princess_LLL" target="Katherine_LLL" weight="2"/>
+            <edge id="Princess_LLL|Rosaline_LLL" source="Princess_LLL" target="Rosaline_LLL" weight="3"/>
+            <edge id="Princess_LLL|Forester_LLL" source="Princess_LLL" target="Forester_LLL" weight="1"/>
+            <edge id="Princess_LLL|Nathaniel_LLL" source="Princess_LLL" target="Nathaniel_LLL" weight="1"/>
+            <edge id="Princess_LLL|Holofernes_LLL" source="Princess_LLL" target="Holofernes_LLL" weight="1"/>
+            <edge id="Princess_LLL|Marcade_LLL" source="Princess_LLL" target="Marcade_LLL" weight="1"/>
+            <edge id="Princess_LLL|Spring_LLL" source="Princess_LLL" target="Spring_LLL" weight="1"/>
+            <edge id="Princess_LLL|Winter_LLL" source="Princess_LLL" target="Winter_LLL" weight="1"/>
+            <edge id="LORDS.0_LLL|Maria_LLL" source="LORDS.0_LLL" target="Maria_LLL" weight="1"/>
+            <edge id="LORDS.0_LLL|Katherine_LLL" source="LORDS.0_LLL" target="Katherine_LLL" weight="1"/>
+            <edge id="LORDS.0_LLL|Rosaline_LLL" source="LORDS.0_LLL" target="Rosaline_LLL" weight="1"/>
+            <edge id="Maria_LLL|Katherine_LLL" source="Maria_LLL" target="Katherine_LLL" weight="2"/>
+            <edge id="Maria_LLL|Rosaline_LLL" source="Maria_LLL" target="Rosaline_LLL" weight="3"/>
+            <edge id="Maria_LLL|Forester_LLL" source="Maria_LLL" target="Forester_LLL" weight="1"/>
+            <edge id="Maria_LLL|Nathaniel_LLL" source="Maria_LLL" target="Nathaniel_LLL" weight="1"/>
+            <edge id="Maria_LLL|Holofernes_LLL" source="Maria_LLL" target="Holofernes_LLL" weight="1"/>
+            <edge id="Maria_LLL|Marcade_LLL" source="Maria_LLL" target="Marcade_LLL" weight="1"/>
+            <edge id="Maria_LLL|Spring_LLL" source="Maria_LLL" target="Spring_LLL" weight="1"/>
+            <edge id="Maria_LLL|Winter_LLL" source="Maria_LLL" target="Winter_LLL" weight="1"/>
+            <edge id="Katherine_LLL|Rosaline_LLL" source="Katherine_LLL" target="Rosaline_LLL" weight="2"/>
+            <edge id="Katherine_LLL|Nathaniel_LLL" source="Katherine_LLL" target="Nathaniel_LLL" weight="1"/>
+            <edge id="Katherine_LLL|Holofernes_LLL" source="Katherine_LLL" target="Holofernes_LLL" weight="1"/>
+            <edge id="Katherine_LLL|Marcade_LLL" source="Katherine_LLL" target="Marcade_LLL" weight="1"/>
+            <edge id="Katherine_LLL|Spring_LLL" source="Katherine_LLL" target="Spring_LLL" weight="1"/>
+            <edge id="Katherine_LLL|Winter_LLL" source="Katherine_LLL" target="Winter_LLL" weight="1"/>
+            <edge id="Rosaline_LLL|Forester_LLL" source="Rosaline_LLL" target="Forester_LLL" weight="1"/>
+            <edge id="Rosaline_LLL|Nathaniel_LLL" source="Rosaline_LLL" target="Nathaniel_LLL" weight="1"/>
+            <edge id="Rosaline_LLL|Holofernes_LLL" source="Rosaline_LLL" target="Holofernes_LLL" weight="1"/>
+            <edge id="Rosaline_LLL|Marcade_LLL" source="Rosaline_LLL" target="Marcade_LLL" weight="1"/>
+            <edge id="Rosaline_LLL|Spring_LLL" source="Rosaline_LLL" target="Spring_LLL" weight="1"/>
+            <edge id="Rosaline_LLL|Winter_LLL" source="Rosaline_LLL" target="Winter_LLL" weight="1"/>
+            <edge id="Nathaniel_LLL|Holofernes_LLL" source="Nathaniel_LLL" target="Holofernes_LLL" weight="3"/>
+            <edge id="Nathaniel_LLL|Marcade_LLL" source="Nathaniel_LLL" target="Marcade_LLL" weight="1"/>
+            <edge id="Nathaniel_LLL|Spring_LLL" source="Nathaniel_LLL" target="Spring_LLL" weight="1"/>
+            <edge id="Nathaniel_LLL|Winter_LLL" source="Nathaniel_LLL" target="Winter_LLL" weight="1"/>
+            <edge id="Holofernes_LLL|Marcade_LLL" source="Holofernes_LLL" target="Marcade_LLL" weight="1"/>
+            <edge id="Holofernes_LLL|Spring_LLL" source="Holofernes_LLL" target="Spring_LLL" weight="1"/>
+            <edge id="Holofernes_LLL|Winter_LLL" source="Holofernes_LLL" target="Winter_LLL" weight="1"/>
+            <edge id="Marcade_LLL|Spring_LLL" source="Marcade_LLL" target="Spring_LLL" weight="1"/>
+            <edge id="Marcade_LLL|Winter_LLL" source="Marcade_LLL" target="Winter_LLL" weight="1"/>
+            <edge id="Spring_LLL|Winter_LLL" source="Spring_LLL" target="Winter_LLL" weight="1"/>
+        </edges>
+    </graph>
+</gexf>

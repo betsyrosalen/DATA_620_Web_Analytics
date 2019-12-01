@@ -1,0 +1,263 @@
+Enter Ferdinand , King of Navarre , Berowne , Longaville , and Dumaine .
+He holds up a scroll .
+He signs his name .
+He signs his name .
+reads
+Reads :
+Reads :
+He signs his name .
+Enter Dull , a Constable , with a letter , and Costard .
+, to King
+He gives the letter to the King .
+reads
+reads
+reads
+reads
+reads
+reads
+reads
+reads
+reads
+To Costard .
+King , Longaville , and Dumaine exit .
+They exit .
+Enter Armado and Mote , his page .
+, aside
+, aside
+, aside
+, aside
+Enter Clown ( Costard , ) Constable ( Dull , ) and Wench ( Jaquenetta . )
+, to Armado
+, aside
+Dull and Jaquenetta exit .
+, to Costard
+, to Boy
+, to Armado
+Costard and Boy exit .
+He exits .
+Enter the Princess of France , with three attending Ladies ( Rosaline , Maria , and Katherine ) , Boyet and other Lords .
+Boyet exits .
+Enter Boyet .
+Enter King of Navarre , Longaville , Dumaine , and Berowne .
+She gives him a paper .
+They walk aside while the King reads the paper .
+, to Rosaline
+, coming forward with the Princess
+He exits with Dumaine , Longaville , and Attendants .
+, to Rosaline
+He exits .
+Enter Dumaine .
+, to Boyet
+He exits .
+Enter Longaville .
+, to Boyet
+Longaville exits .
+Enter Berowne .
+, to Boyet
+Berowne exits .
+He tries to kiss her .
+, to her Ladies
+They all exit .
+Enter Braggart Armado and his Boy .
+sings
+He hands over a key .
+aside
+aside
+He exits .
+Enter Boy and Clown Costard .
+( He gives him a paper . )
+( giving him a coin , )
+He exits .
+He exits .
+He looks at the coin .
+Enter Berowne .
+He begins to exit .
+He gives him money .
+He looks at the money .
+He exits .
+He exits .
+Enter the Princess , a Forester , her Ladies , Boyet and her other Lords .
+She gives him money .
+He hands her a bow .
+Enter Clown Costard .
+, taking the letter
+reads .
+, to Costard
+To Rosaline .
+The Princess , Katherine , Lords , and Forester exit . Boyet , Rosaline , Maria , and Costard remain .
+sings
+sings
+Rosaline exits .
+, to Maria
+, to Boyet
+Boyet and Maria exit .
+Shout within .
+He exits .
+Enter Dull the Constable , Holofernes the Pedant , and Nathaniel the Curate .
+, aside
+Enter Jaquenetta and the Clown Costard .
+, to Nathaniel
+, to Nathaniel
+She hands Nathaniel a paper , which he looks at .
+( He sings . )
+( To Nathaniel . )
+( Looking at the letter . )
+, reads
+He takes the paper .
+To Jaquenetta .
+Costard and Jaquenetta exit .
+To Dull .
+They exit .
+Enter Berowne with a paper in his hand , alone .
+He stands aside .
+The King entereth with a paper .
+, aside
+reads
+Enter Longaville , with papers . The King steps aside .
+Enter Longaville , with papers .
+The King steps aside .
+, aside
+, aside
+, aside
+, aside
+, aside
+Reads .
+He tears the paper .
+, aside
+, taking another paper
+( He reads the sonnet . )
+, aside
+He steps aside .
+Enter Dumaine , with a paper .
+, aside
+, aside
+, aside
+, aside
+, aside
+, aside
+, aside
+, aside
+, aside
+, aside
+, aside
+reads his sonnet .
+, coming forward
+, coming forward
+To Longaville .
+To Longaville .
+To Dumaine .
+, coming forward
+To Longaville .
+Enter Jaquenetta , with a paper , and Clown Costard .
+Berowne begins to exit .
+Berowne reads the letter .
+To Jaquenetta .
+, to Costard
+Berowne tears the paper .
+, to Berowne
+, picking up the papers
+, to Costard
+Pointing to Jaquenetta and Costard .
+Jaquenetta and Costard exit .
+, showing his shoe
+They exit .
+Enter Holofernes the Pedant , Nathaniel the Curate , and Dull the Constable .
+Draw out his table book .
+Enter Armado the Braggart , Boy , and Costard .
+, aside to Costard
+, aside to Boy
+, aside to Costard
+, to Holofernes
+He gives him money .
+, to Holofernes
+They exit .
+Enter the Ladies ( the Princess , Rosaline , Katherine , and Maria . )
+She shows a jewel .
+She shows a gift .
+She shows the glove .
+She shows a paper and pearls .
+Enter Boyet .
+Princess and Rosaline exchange favors .
+Katherine and Maria exchange favors .
+, to Princess
+Sound trumpet , within .
+Sound trumpet , within .
+The Ladies mask .
+Enter Blackamoors with music , the Boy with a speech , the King , Berowne , and the rest of the Lords disguised .
+( The Ladies turn their backs to him . )
+Boy exits .
+, speaking as the Princess
+Music begins .
+Music begins .
+She offers her hand .
+They move aside .
+, to the Princess
+, speaking as Rosaline
+They move aside .
+, to Maria
+, speaking as Katherine
+They move aside .
+, speaking as Maria
+They move aside .
+The Ladies move away from the Lords .
+King , Lords , and Blackamoors exit .
+The Ladies unmask .
+The Princess and the Ladies exit .
+Enter the King and the rest , as themselves .
+, to Boyet
+He exits .
+Enter the Ladies , with Boyet .
+, to Princess
+, aside to Dumaine
+, aside to King
+, to King
+, to King , Longaville , and Dumaine
+, to Princess
+She shows a token .
+She points to Rosaline .
+To Berowne .
+She shows the token .
+To Boyet .
+Enter Clown Costard .
+He exits .
+Enter Braggart Armado .
+, to King
+Armado and King step aside , and Armado gives King a paper .
+, to King
+He exits .
+, reading the paper
+Enter Costard as Pompey .
+( He places his weapons at the feet of the Princess . )
+Costard stands aside .
+Enter Curate Nathaniel for Alexander .
+, to Boyet
+, to Costard
+, to Nathaniel
+Nathaniel exits .
+Enter Pedant Holofernes for Judas , and the Boy for Hercules .
+, to Costard
+To Boy .
+Boy steps aside .
+He points to his own face .
+Holofernes exits .
+Enter Braggart Armado as Hector .
+To Princess .
+Berowne steps forth .
+, to Costard
+He removes his doublet .
+, to Armado
+Enter a Messenger , Monsieur Marcade .
+, to Princess
+Worthies exit .
+, to Princess
+, to Boyet
+She takes his hand .
+They step aside .
+, to Katherine
+They step aside .
+They step aside .
+, to Rosaline
+, to King
+Enter Braggart Armado .
+Enter all .
+They all exit .
