@@ -14,6 +14,8 @@ For their 2011 paper, “Flavor network and the principles of food pairing,” f
 
 ## Words kids learn.	
 
+### Note for Mike: I would prefer not to use this one unless you have your heart set on it...
+
 Wordbank is an “open database of children's vocabulary development.” So far, the Stanford-hosted project has gathered data from more than 71,000 standardized and anonymized vocabulary questionnaires across 23 languages. You could spend hours exploring the data online, charting how quickly children learn individual words, how quickly the same word (e.g., “grandma,” “abuela,” “ба́бушка”) is learned in different languages, and connections between words. You can download the data for each word or for each child’s vocabulary. Bonus: Wordbank has an R package and a GitHub repository. [h/t Hacker News user "Jasamba"]
 
 <http://wordbank.stanford.edu/>  
@@ -100,6 +102,8 @@ O Say Can You See, a project partially funded by the National Endowment of the H
 
 ## Drama.	
 
+### Note for Mike: I would prefer not to use this one unless you have your heart set on it...
+
 The Drama Corpora Project has collected and processed more than 800 plays in German, Greek, Spanish, Russian, Latin, and English. For each play, the project provides a structured-data version of the text, a network diagram, speech distribution metrics, plus several other files and features. [h/t Lynn Cherny]	
 
 <https://dracor.org/>  
@@ -107,7 +111,10 @@ The Drama Corpora Project has collected and processed more than 800 plays in Ger
 
 #### _Data in various formats, easy to download.  Can do text and network analysis.  Maybe not the most exciting topic though?_
 
-## One million comic book panels.	
+## One million comic book panels.
+
+### Note for Mike: I would prefer not to use this one unless you have your heart set on it...
+
 Comic books make use of white space — or gutters — to propel the story forward, relying on readers’ intuitive ability to fill in the gaps between panels. To see whether computers could learn to make the same inferences, a group of computer scientists built a giant corpus of public-domain comics and tried training a series of neural networks on it. (Spoiler: Humans are much better at this.) The underlying dataset contains 1.2 million panels from nearly 200,000 scanned pages of nearly 4,000 books in the Digital Comic Museum, all published during the 1938–1954 “Golden Age” of American comics. It also contains 2.5 million chunks of text extracted from the comics’ speech balloons, thought bubbles, and narration boxes. [h/t Robin Sloan]	
 
 <https://arxiv.org/abs/1611.05118>  
