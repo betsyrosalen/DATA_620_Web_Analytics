@@ -2,9 +2,8 @@
 **/.DS_Store
 
 Potential_Data_for_Proj_2/gottron-trec.tar.bz2
+Final_Project_corpusfolder
 
-.ipynb_checkpoints/Project2-2-NodeNetworks - Airports-checkpoint.ipynb
-.ipynb_checkpoints/Project2-2-NodeNetworks-checkpoint.ipynb
-.ipynb_checkpoints/Week10-Document_Classification-checkpoint.ipynb
-.ipynb_checkpoints/Final Project Proposal-checkpoint.ipynb
+.ipynb_checkpoints
 .DS_Store
+.ipynb_checkpoints/Final_Project-checkpoint.ipynb
