@@ -4,8 +4,6 @@
 Potential_Data_for_Proj_2/gottron-trec.tar.bz2
 Final_Project_corpusfolder
 
-.ipynb_checkpoints/
+**/.ipynb_checkpoints/
 .ipynb_checkpoints/Final_Project-checkpoint.ipynb
-
-.DS_Store
 .ipynb_checkpoints/Final_Project-checkpoint.ipynb
